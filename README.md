@@ -33,7 +33,7 @@ git commit --allow-empty -m "Initial commit"
 git push -u origin [ユーザー名]
 ```
 
-以降は各ユーザー名ディレクトリ以下にコードを配置してください．
+以降は trainee_\[各ユーザー名\] ディレクトリ以下にコードを配置してください．
 
 ## コードを GitHub に push する時に毎回すること
 
